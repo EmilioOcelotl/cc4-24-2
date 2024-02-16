@@ -1,4 +1,4 @@
-![portada](https://raw.githubusercontent.com/EmilioOcelotl/cc4-24-2/main/img/banner.png)
+![portada](https://github.com/EmilioOcelotl/cc4-24-2/blob/main/img/banner.png)
 
 # Código creativo: diseño de espacios paramétricos
 
